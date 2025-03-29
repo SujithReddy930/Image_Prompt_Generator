@@ -1,0 +1,12 @@
+{
+    "image1.jpg": "<start> a dog running in the park <end>",
+    "image2.jpg": "<start> a cat sitting on a chair <end>",
+    "image3.jpg": "<start> a bird flying in the sky <end>",
+    "image4.jpg": "<start> a group of people having a picnic <end>",
+    "image5.jpg": "<start> a car driving on a highway <end>",
+    "image6.jpg": "<start> a beautiful sunset over the mountains <end>",
+    "image7.jpg": "<start> a child playing with a ball <end>",
+    "image8.jpg": "<start> a busy city street at night <end>",
+    "image9.jpg": "<start> a couple walking on the beach <end>",
+    "image10.jpg": "<start> a chef cooking in a kitchen <end>"
+}
