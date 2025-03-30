@@ -6,3 +6,4 @@ torchvision
 numpy
 tensorflow
 keras
+TensorFlow
